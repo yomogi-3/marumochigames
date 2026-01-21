@@ -26,4 +26,4 @@ Cookie 等を使用することがあります。
 
 ご質問等がある場合は、以下の連絡先までお問い合わせください。
 
-[お問い合わせ]([https://example.com](https://docs.google.com/forms/d/e/1FAIpQLSf4Ot0xCKeM-tebWR2AVpzXd38LkTytCuepXkXmYg0kkyOGhA/viewform?usp=dialog))
+[お問い合わせ](https://docs.google.com/forms/d/e/1FAIpQLSf4Ot0xCKeM-tebWR2AVpzXd38LkTytCuepXkXmYg0kkyOGhA/viewform?usp=dialog)
