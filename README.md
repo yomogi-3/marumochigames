@@ -25,4 +25,5 @@ Cookie 等を使用することがあります。
 お問い合わせ
 
 ご質問等がある場合は、以下の連絡先までお問い合わせください。
-triroarmarumochi@gmail.com
+
+[お問い合わせ]([https://example.com](https://docs.google.com/forms/d/e/1FAIpQLSf4Ot0xCKeM-tebWR2AVpzXd38LkTytCuepXkXmYg0kkyOGhA/viewform?usp=dialog))
